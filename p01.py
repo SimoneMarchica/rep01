@@ -1,0 +1,1 @@
+print("stupido , stupida")
